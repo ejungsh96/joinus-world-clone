@@ -1,0 +1,43 @@
+https://www.joinusworld.org/home
+
+https://www.joinusworld.org/qa
+	- /main
+	- /faq
+	- /general
+	- /life_and_travel
+	- /society_and_culture
+	- /medical
+	- /law
+	- /local_area
+	- /business_and_finance
+	- /language_and_translation
+
+	- /write
+
+https://www.joinusworld.org/community
+	- /main
+	- /news
+	- /talk
+	- /culture
+	- /entertainment
+	- /education
+	- /column
+	- /find_friends
+	- /meetup
+	- /housing
+	- /job
+	- /business
+	- /opinion
+
+	- /write
+
+https://www.joinusworld.org/ranking
+	- /people
+	- /question
+	- /answer
+	- /post
+	- /reply
+
+https://www.joinusworld.org/freetalk
+
+https://www.joinusworld.org/accounts/login
