@@ -9,14 +9,11 @@ class Board(models.Model):
     created_at  = models.DateTimeField(auto_now_add=True, verbose_name="작성일")
     updated_at  = models.DateTimeField(auto_now=True, verbose_name="최종수정일")
     
-    # slug = models.SlugField(max_length=200, db_index=True, unique=True, allow_unicode=True)
-    
     class Meta:
         db_table            = 'boards'
         verbose_name        = '게시판'
         verbose_name_plural = '게시판'
         ordering            = ['-created_at', '-updated_at']
-        # index_together = [['id', 'slug']]
         
     def __str__(self):
         return self.title

@@ -8,5 +8,4 @@ def board_list(request):
 
 def board_detail(request, id):
     board_detail = get_object_or_404(Board, id=id)
-    # board_detail = Board.objects.get(id = id)
     return render(request, 'qa/board_detail.html', {'board_detail': board_detail})
